@@ -1,0 +1,1 @@
+export const apiUrl='https://ps-dev-1-partnergateway.patientsky.dev/assignment'
